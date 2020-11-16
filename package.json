@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ZachG22.github.io/profile",
+  "homepage": "https://ZachG22.github.io/profile/index.html",
   "name": "profile",
   "version": "0.1.0",
   "private": true,
@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
     "@testing-library/user-event": "^12.2.2",
+    "bootstrap": "^4.5.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
