@@ -15,9 +15,9 @@ class App extends Component {
           <NavigationBar />
           <Layout>
             <Switch>
-              <Route exact path="/" component={Home} />
-              <Route path="/about" component={About} />
-              <Route path="/contact" component={Contact} />
+              <Route exact path="/profile" component={Home} />
+              <Route path="/profile/about" component={About} />
+              <Route path="/profile/contact" component={Contact} />
             </Switch>
           </Layout>
         </Router>
