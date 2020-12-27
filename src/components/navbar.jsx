@@ -27,7 +27,7 @@ export default class NavigationBar extends React.Component {
 				/>
 				<Styles>
 					<Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
-						<Navbar.Brand href="/">Zach Giordano</Navbar.Brand>
+						<Navbar.Brand href="/profile">Zach Giordano</Navbar.Brand>
 						<Navbar.Toggle aria-controls="responsive-navbar-nav" />
 						<Navbar.Collapse id="responsive-navbar-nav">
 							<Nav className="ml-auto">
