@@ -19,7 +19,7 @@
   }
   .carousel-item > img {
     position: absolute;
-    opacity: 32%;
+    opacity: 0.32;
     top: 0;
     left: 0;
     min-width: 100%;

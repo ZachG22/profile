@@ -3,7 +3,6 @@ import Carousel from 'react-bootstrap/Carousel'
 import KadroLogo from './img/KadroLogo.svg'
 import AmazonSumerianLogo from './img/AmazonSumerianLogo.jpg'
 import AWSIoT from './img/AWSIoT.png'
-import { Container } from 'react-bootstrap'
 
 export default class About extends Component {
 
