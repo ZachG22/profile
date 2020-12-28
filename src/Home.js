@@ -9,9 +9,11 @@ export const Home = () => (
             I&apos;m a Software Development Engineer.
         </h2>
     </div>
-    <p>I am a professional software development engineer based in Seattle, WA. This website is meant to serve 
-        as a portfolio of sorts, with links to various projects of mine, as well as interests.
-    </p>
-    <p>Work In Progress...</p>
+    <div className="content">
+      <p>I am a professional software development engineer based in Seattle, WA. This website is meant to serve 
+          as a portfolio of sorts, with links to various projects of mine, as well as interests.
+      </p>
+      <p>Work In Progress...</p>
+    </div>
   </div>
 )
