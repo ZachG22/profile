@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.b83a2149.chunk.css",
-    "main.js": "/profile/static/js/main.827e9ded.chunk.js",
-    "main.js.map": "/profile/static/js/main.827e9ded.chunk.js.map",
+    "main.css": "/profile/static/css/main.a092bb50.chunk.css",
+    "main.js": "/profile/static/js/main.e37cd249.chunk.js",
+    "main.js.map": "/profile/static/js/main.e37cd249.chunk.js.map",
     "runtime-main.js": "/profile/static/js/runtime-main.2a276d0d.js",
     "runtime-main.js.map": "/profile/static/js/runtime-main.2a276d0d.js.map",
-    "static/js/2.f7c51079.chunk.js": "/profile/static/js/2.f7c51079.chunk.js",
-    "static/js/2.f7c51079.chunk.js.map": "/profile/static/js/2.f7c51079.chunk.js.map",
+    "static/js/2.1894fde6.chunk.js": "/profile/static/js/2.1894fde6.chunk.js",
+    "static/js/2.1894fde6.chunk.js.map": "/profile/static/js/2.1894fde6.chunk.js.map",
     "index.html": "/profile/index.html",
-    "static/css/main.b83a2149.chunk.css.map": "/profile/static/css/main.b83a2149.chunk.css.map",
-    "static/js/2.f7c51079.chunk.js.LICENSE.txt": "/profile/static/js/2.f7c51079.chunk.js.LICENSE.txt",
+    "static/css/main.a092bb50.chunk.css.map": "/profile/static/css/main.a092bb50.chunk.css.map",
+    "static/js/2.1894fde6.chunk.js.LICENSE.txt": "/profile/static/js/2.1894fde6.chunk.js.LICENSE.txt",
+    "static/media/AWSIoT.3705fc62.png": "/profile/static/media/AWSIoT.3705fc62.png",
+    "static/media/AmazonSumerianLogo.ad1c64c9.jpg": "/profile/static/media/AmazonSumerianLogo.ad1c64c9.jpg",
+    "static/media/KadroLogo.6d20cfc0.svg": "/profile/static/media/KadroLogo.6d20cfc0.svg",
     "static/media/index.css": "/profile/static/media/seattle-bg.3ff9757a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2a276d0d.js",
-    "static/js/2.f7c51079.chunk.js",
-    "static/css/main.b83a2149.chunk.css",
-    "static/js/main.827e9ded.chunk.js"
+    "static/js/2.1894fde6.chunk.js",
+    "static/css/main.a092bb50.chunk.css",
+    "static/js/main.e37cd249.chunk.js"
   ]
 }
